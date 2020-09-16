@@ -1,2 +1,2 @@
 # hello-world
-mytest
+I'm studying how to use Github
